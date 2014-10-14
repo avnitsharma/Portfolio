@@ -1,0 +1,164 @@
+.jumbotron {
+  background-image:url('http://1hdwallpapers.com/wallpapers/blue_fractal.jpg');
+  background-repeat: repeat;
+  background-size: auto;
+  height: 526px;
+  width: 100%;
+  
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  text-align: right;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+  text-align:right;
+}
+mid{
+	background-color:#69F;
+	margin-left:auto;
+	margin-right:auto;
+}
+hr one {
+width: 100%;
+height: 2px;
+background-color:#09F;
+color: #09F;
+border: 0 none;
+margin: 5px auto;
+}
+hr {
+width: 80%;
+height: 2px;
+background-color:black;
+color: #09F;
+border: 0 none;
+margin: 5px auto;
+}
+hr.line{width: 100%;
+height: 2px;
+background-color:#09F;
+color: #09F;
+border: 0 none;
+margin: 5px auto}
+
+
+.learn-more {
+  background-color: #8C6798;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+learn-more a {
+  color: #00b0ff;
+}
+#right{
+	width: 50%;
+	float: center;
+}
+table {
+	border: #000000 0px none;
+	background-color: #8C6798;
+	float: center;
+	margin-right: 200px;
+	margin-left:250px;
+	border-bottom-right-radius: 45px;
+	border-bottom-left-radius: 15px;
+}
+
+td {
+	padding:30px;
+	height: 250px;
+	width: 250px;
+}
+td img {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+td img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+td img {
+	height: 230px;
+	width: 230px;
+	box-shadow: none;
+}
+
+th {
+	font-family: Verdana;
+	font-size: 1em;
+	font-weight: normal;
+	color: #3c4543
+}
+footer.bottom{
+	background-color:#8A7586;
+	width: 100%;
+	height:280px;	
+	border: thick;
+	border-color:#0FF;
+	border-radius: 10px;
+	
+}
+footer.bottom p{
+	color: BLACK;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:20px;
+	font-style:oblique;
+}
+footer.bottom #right{
+	width: 35%;
+	float: left;
+}
+
+footer.bottom #right table.{
+	border: hidden 0px none;
+	float: left;
+	margin-right: 0px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+footer.bottom #right table td {
+	height: 45px;
+	width: 45px;
+}
+
+footer.bottom #right table td img {
+	height: 45px;
+	width: 45px;
+	
+	}
+
+footer.bottom #right table th {
+	font-family: Verdana;
+	font-size: 1em;
+	font-weight: normal;
+	}
+
+footer.bottom #right table #bottom_left{
+	border-bottom-left-radius: 15px;
+}
+
+footer.bottom #right table #bottom_right{
+	border-bottom-right-radius: 15px;
+}
+	
+	
+	
+   
